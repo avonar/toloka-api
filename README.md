@@ -2,7 +2,6 @@
 
 ## Usage example
 ```
-In [1]: from aiohttp import ClientSession
 
 In [2]: import toloka_api
 
